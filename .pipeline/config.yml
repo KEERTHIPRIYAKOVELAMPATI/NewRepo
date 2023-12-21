@@ -1,13 +1,13 @@
 steps:
   integrationArtifactDeploy:
-    cpiApiServiceKeyCredentialsId: fbbc010ctrial
-    integrationFlowId: trial-flow4
+    cpiApiServiceKeyCredentialsId: fbbc010cP2007869817
+    integrationFlowId: P2007869817-flow4
   integrationArtifactGetMplStatus:
-    cpiApiServiceKeyCredentialsId: fbbc010ctrial
-    integrationFlowId: trial-flow4
+    cpiApiServiceKeyCredentialsId: fbbc010cP2007869817
+    integrationFlowId: P2007869817-flow4
   integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: fbbc010ctrial
-    integrationFlowId: trial-flow4
-    integrationFlowName: trial-flow4
+    cpiApiServiceKeyCredentialsId: fbbc010cP2007869817
+    integrationFlowId: P2007869817-flow4
+    integrationFlowName: P2007869817-flow4
     packageId: CICD
-    filePath: trial-flow4.zip
+    filePath: P2007869817-flow4.zip
