@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bundle-SymbolicName: trial-flow4
+Bundle-SymbolicName: P2007869817-flow4
 Bundle-ManifestVersion: 2
-Origin-Bundle-SymbolicName: trial-flow4
+Origin-Bundle-SymbolicName: P2007869817-flow4
 SAP-ArtifactTrait: 
 Import-Package:  com.sap.it.rt.scc.proxy, org.apache.camel.component.q
  uartz2, com.sap.it.nm.concurrent, com.sap.esb.camel.route.policy, com
@@ -51,10 +51,10 @@ Import-Package:  com.sap.it.rt.scc.proxy, org.apache.camel.component.q
  pache.camel.processor.idempotent.jdbc,org.osgi.service.blueprint;vers
  ion="[1.0.0,2.0.0)"
 Require-Capability: sap-HTTP;resolution:=optional
-Origin-Bundle-Name: trial-flow4
+Origin-Bundle-Name: P2007869817-flow4
 SAP-RuntimeProfile: iflmap
 WorkspaceProfile: iflmap
-Bundle-Name: trial-flow4
+Bundle-Name: P2007869817-flow4
 Bundle-Version: 1.0.2
 Bundle-ClassPath: .
 SAP-StartOrder: 1000
